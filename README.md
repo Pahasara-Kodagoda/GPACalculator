@@ -17,7 +17,7 @@ A lightweight and intuitive **Windows Forms Desktop Application** developed in *
 
 - **Language:** C#
 - **Framework:** .NET Framework / .NET (Windows Forms)
-- **Database / Storage:** SQLite / Local File Storage *(ඔබ භාවිත කළ storage ක්‍රමය අනුව මෙය වෙනස් කරන්න)*
+- **Database / Storage:** SQLite / Local File Storage 
 - **IDE:** Visual Studio
 
 ---
